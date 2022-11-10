@@ -1,0 +1,4 @@
+OS Module
+=========
+=> this module provides many functions that you can useto retrieveinformation from the underlying os and the
+computer the program runs on , and interact with it.

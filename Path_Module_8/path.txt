@@ -1,0 +1,4 @@
+Path module
+===========
+* The path module is allows you to interact with file paths easly.
+* Path module has many useful properties and methods to access and manipulae paths in the file system.

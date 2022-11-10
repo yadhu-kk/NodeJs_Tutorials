@@ -1,0 +1,13 @@
+Promise
+==========
+
+* Node. js Promise is a placeholder for a value that will be available in the future,
+* allowing us to handle the result of an asynchronous task once it has completed or encountered an error.
+* Promises make writing asynchronous code easier. 
+* They're an improvement on the callback pattern and very popular in Node. js.
+
+callback
+=========
+* A callback is a function which is called when a task is completed, 
+ thus helps in preventing any kind of blocking and a callback function allows other code to run in the meantime. 
+* Callback is called when task get completed and is asynchronous equivalent for a function.

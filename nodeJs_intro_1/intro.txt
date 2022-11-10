@@ -1,0 +1,24 @@
+Node Js
+==========
+
+* Node js is js runtime environment built on chrome V8 JS Engine.
+*__Runtime environment is where your program will be executed..
+(before Nodejs_we can only execute js in runtime environment of browser like chrome,e-explorer etc... )
+* Nodejs is very fast in code execution.
+* Nodejs can generate dynamic page content.
+Node js can create,open,read,write,delete and close files on the server.
+* Node js can collect form data.
+Node js can add,delete,modify data in your database.
+
+Js Engine
+==========
+* The JS Engine is a program whose responsibility is to execute Js Code.
+
+V8 JS Engine
+==========
+V8 is free and open-source js engine written in c++,developed by google that powers googlechrome..
+
+___After Nodejs we can execute Js Code outside a web browser.
+
+
+

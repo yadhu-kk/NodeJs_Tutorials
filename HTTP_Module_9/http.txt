@@ -1,0 +1,5 @@
+HTTP Module
+==============
+* http module allows Node js to transfer data over the Hyper Text Transfer Protocol (HTTP)
+* The http module can create an HTTP Server that listens to server ports and gives 
+a response back to the client.    

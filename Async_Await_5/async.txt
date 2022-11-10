@@ -1,0 +1,6 @@
+async and await
+===============
+=> Inside an async function, you can use the await keyword before a call to a function that returns a promise. 
+This makes the code wait at that point until the promise is settled, 
+at which point the fulfilled value of the promise is treated as a return value, 
+or the rejected value is thrown.

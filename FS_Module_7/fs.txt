@@ -1,0 +1,12 @@
+FS_Module
+==========
+Allows you to work with the file system on your computer.
+
+Common Uses
+ -------
+ * Read files
+ * Create files
+ * Update files
+ * Delete files
+ * Rename files
+ 

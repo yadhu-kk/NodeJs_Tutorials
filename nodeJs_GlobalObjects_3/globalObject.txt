@@ -1,0 +1,6 @@
+Global Objects
+==============
+* Global objects are objects that are available in all Modules.
+* These are built-in objects/functions that are part of JS and we can use in our applications without 
+importing any particular module...
+modules and export are global objects.

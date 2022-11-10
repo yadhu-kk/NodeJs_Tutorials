@@ -1,0 +1,20 @@
+Modules
+===========
+* Module in Js is a simple or complex functionality organized in single or multiple js files (Library) which
+ can be reused throughout the node Js application.
+
+ Node Js includes 3 types of Modules
+ ===================================
+ 1 _ Core Module / Built-in Module.
+   => NodeJs can many built-in modules that are part of the platform and comes with Node js installation.
+   => Using the require function we can use these modules in our projects.
+
+ 2 _ Local Module.
+   => We can create our own modules and we can use it in our project.
+   => Using the require function we can use these modules in our projects.
+
+ 3 _ NPM / Third party module.
+   => When you install Node js , you also get NPM(Node Package Manager)  that allows you to install and use 
+   third party NPM Libraries in your code.
+   
+
